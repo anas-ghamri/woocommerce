@@ -11,10 +11,6 @@
     "puppeteer"
   ],
   "homepage": "https://github.com/woocommerce/woocommerce/tree/master/tests/e2e/env/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/woocommerce/woocommerce.git"
-  },
   "bugs": {
     "url": "https://github.com/woocommerce/woocommerce/issues"
   },
@@ -36,8 +32,7 @@
     "@babel/polyfill": "^7.8.3",
     "@babel/preset-env": "^7.8.4",
     "@wordpress/eslint-plugin": "^4.0.0",
-    "ndb": "^1.1.5",
-    "woocommerce": "git+https://github.com/woocommerce/woocommerce.git"
+    "ndb": "^1.1.5"
   },
   "publishConfig": {
     "access": "public"
